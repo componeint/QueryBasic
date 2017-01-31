@@ -1,0 +1,15 @@
+{
+    "name": "QueryBasic",
+    "alias": "querybasic",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "App\\Components\\QueryBasic\\Providers\\QueryBasicServiceProvider"
+    ],
+    "aliases":{},
+    "files": [
+        "start.php"
+    ]
+}
